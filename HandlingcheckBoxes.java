@@ -83,7 +83,7 @@ public class HandlingcheckBoxes {
 			chkboxlist.get(i).click();
 			}
 		}
-
+                driver.quit();
 	}
 
 }
